@@ -1,4 +1,4 @@
-<h1 align="center">IP scanner</h1>
+<h1 align="center">IP Info</h1>
 <p align="center">
   
 ## What is IP Info ?
@@ -18,7 +18,7 @@ apt update && apt upgrade -y
 apt install git -y
 ```
 ```
-git clone 
+git clone https://github.com/HackersOutpost/Ip-Info.git
 ```
 ```
 cd ipinfo
