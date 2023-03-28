@@ -33,7 +33,7 @@ python3 ipinfo.py
 Now type 1 to scan ip address. And find victim location.
 
 ### Full Tutorial
-
+Will Come in future !
 
 ### Warning
 
